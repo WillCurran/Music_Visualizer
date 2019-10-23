@@ -1,0 +1,7 @@
+.DS_Store
+*.lproj
+*.wav
+Info.plist
+*.json
+*.jpg
+*.obj
